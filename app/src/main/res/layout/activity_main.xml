@@ -58,6 +58,7 @@
                 >
 
                 <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/etName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/e_g_adir"
@@ -67,6 +68,7 @@
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
+                android:id="@+id/btnEnter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Enter"
