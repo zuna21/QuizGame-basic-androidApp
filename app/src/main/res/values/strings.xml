@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">QuizGame</string>
     <string name="e_g_adir">e.g. Adir</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
 </resources>
